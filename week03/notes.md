@@ -11,7 +11,10 @@
   ### Value at Risk
   ### Conditional VAR (CVAR)
 
+  ### Bolinger bands
+
 # Colab links and data files
 
 - https://colab.research.google.com/drive/1HHtKj_QbnPJsA3wqnbFbPCe6Gij4-P0_?usp=sharing
--
+- hands on exercise steps - https://colab.research.google.com/drive/1DdCZADEJrYwpiLaOrP4xj9BAFOgr_vMb?usp=sharing
+- MCQs assignment - https://docs.google.com/forms/d/e/1FAIpQLSeFWdZp-om73FNyGD7AX35F55v_VtDtgnhMU01hXmrUljkhiQ/viewform
