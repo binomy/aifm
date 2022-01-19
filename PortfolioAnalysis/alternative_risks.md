@@ -4,7 +4,7 @@
 
 - Similar to the sharpe ratio, just with a different standard deviation
 $$
-Sortino Ratio = {R_p - R_f \above{1pt} \sigma_d}
+Sortino\ Ratio = {R_p - R_f \above{1pt} \sigma_d}
 $$
 
 - $\sigma_d$ is the standard deviation of the downside.
