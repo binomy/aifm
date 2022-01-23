@@ -1,0 +1,1463 @@
+,title
+0,10-Year Breakeven Inflation Rate
+1,10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity
+2,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+3,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+4,Unemployment Rate
+5,Unemployment Rate
+6,Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity
+7,Federal Funds Effective Rate
+8,M2
+9,M2
+10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Inflation-Indexed"
+11,S&P/Case-Shiller U.S. National Home Price Index
+12,S&P/Case-Shiller U.S. National Home Price Index
+13,M1
+14,M1
+15,"5-Year, 5-Year Forward Inflation Expectation Rate"
+16,10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity
+17,5-Year Breakeven Inflation Rate
+18,Labor Force Participation Rate
+19,Labor Force Participation Rate
+20,"All Employees, Total Nonfarm"
+21,"All Employees, Total Nonfarm"
+22,3-Month Treasury Bill Secondary Market Rate
+23,Personal Consumption Expenditures
+24,Personal Saving Rate
+25,Moody's Seasoned Aaa Corporate Bond Yield
+26,"Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma"
+27,Consumer Price Index: Total All Items for the United States
+28,Consumer Price Index: Total All Items for the United States
+29,Consumer Price Index: Total All Items for the United States
+30,Monthly Supply of Houses in the United States
+31,Monthly Supply of Houses in the United States
+32,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average
+33,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average
+34,Moody's Seasoned Baa Corporate Bond Yield
+35,Industrial Production: Total Index
+36,Industrial Production: Total Index
+37,Currency in Circulation
+38,Monetary Base; Total
+39,New Privately-Owned Housing Units Started: Total Units
+40,New Privately-Owned Housing Units Started: Total Units
+41,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp"
+42,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp"
+43,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp"
+44,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp"
+45,Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity
+46,University of Michigan: Consumer Sentiment
+47,Producer Price Index by Commodity: All Commodities
+48,Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity
+49,Producer Price Index by Commodity: Metals and Metal Products: Cold Rolled Steel Sheet and Strip
+50,Producer Price Index by Commodity: Metals and Metal Products: Cold Rolled Steel Sheet and Strip
+51,"Trade Weighted U.S. Dollar Index: Broad, Goods and Services"
+52,Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity
+53,"Interest Rates, Discount Rate for United States"
+54,Real Personal Consumption Expenditures
+55,Real Personal Consumption Expenditures
+56,Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)
+57,U.S. / Euro Foreign Exchange Rate
+58,Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity
+59,Personal Consumption Expenditures: Chain-type Price Index
+60,Total Vehicle Sales
+61,Total Vehicle Sales
+62,M3 for the United States
+63,M3 for the United States
+64,"Average Hourly Earnings of All Employees, Total Private"
+65,"Average Hourly Earnings of All Employees, Total Private"
+66,Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity
+67,"Commercial and Industrial Loans, All Commercial Banks"
+68,"Commercial and Industrial Loans, All Commercial Banks"
+69,"Commercial and Industrial Loans, All Commercial Banks"
+70,Producer Price Index by Industry: Plastics Material and Resins Manufacturing
+71,S&P/Case-Shiller 20-City Composite Home Price Index
+72,S&P/Case-Shiller 20-City Composite Home Price Index
+73,Federal Surplus or Deficit [-]
+74,Crude Oil Prices: Brent - Europe
+75,Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity
+76,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Inflation-Indexed"
+77,University of Michigan: Inflation Expectation
+78,Job Openings: Total Nonfarm
+79,Job Openings: Total Nonfarm
+80,Job Openings: Total Nonfarm
+81,Job Openings: Total Nonfarm
+82,Unemployment Rate - Black or African American
+83,Unemployment Rate - Black or African American
+84,China / U.S. Foreign Exchange Rate
+85,Real Disposable Personal Income
+86,Advance Retail Sales: Retail Trade
+87,Advance Retail Sales: Retail Trade
+88,Advance Retail Sales: Retail Trade
+89,Advance Retail Sales: Retail Trade
+90,Bank Prime Loan Rate
+91,Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity
+92,Employment-Population Ratio
+93,Employment-Population Ratio
+94,"Deposits, All Commercial Banks"
+95,"Deposits, All Commercial Banks"
+96,"Deposits, All Commercial Banks"
+97,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United States
+98,Consumer Price Index for All Urban Consumers: Purchasing Power of the Consumer Dollar in U.S. City Average
+99,Producer Price Index by Commodity: Metals and Metal Products: Iron and Steel
+100,Consumer Price Index for All Urban Consumers: Used Cars and Trucks in U.S. City Average
+101,Consumer Price Index for All Urban Consumers: Used Cars and Trucks in U.S. City Average
+102,Global price of Sunflower Oil
+103,Working Age Population: Aged 15-64: All Persons for the United States
+104,Working Age Population: Aged 15-64: All Persons for the United States
+105,Total Business: Inventories to Sales Ratio
+106,Total Business: Inventories to Sales Ratio
+107,Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity
+108,Japan / U.S. Foreign Exchange Rate
+109,Smoothed U.S. Recession Probabilities
+110,Light Weight Vehicle Sales: Autos and Light Trucks
+111,Leading Index for the United States
+112,Personal Income
+113,NBER based Recession Indicators for the United States from the Period following the Peak through the Trough
+114,Unemployment Level
+115,Unemployment Level
+116,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units
+117,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units
+118,Capacity Utilization: Total Index
+119,Existing Home Sales
+120,Existing Home Sales
+121,Consumer Price Index for All Urban Consumers: Rent of Primary Residence in U.S. City Average
+122,Consumer Price Index for All Urban Consumers: Rent of Primary Residence in U.S. City Average
+123,Labor Force Participation Rate - Women
+124,Labor Force Participation Rate - Women
+125,"Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)"
+126,"Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)"
+127,Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity
+128,Civilian Labor Force Level
+129,Civilian Labor Force Level
+130,Global Price Index of All Commodities
+131,Manufacturers' New Orders: Durable Goods
+132,Manufacturers' New Orders: Durable Goods
+133,Population
+134,"Unemployment Rate - 20 Yrs. & over, Black or African American Men"
+135,"Unemployment Rate - 20 Yrs. & over, Black or African American Men"
+136,Quits: Total Nonfarm
+137,Quits: Total Nonfarm
+138,Quits: Total Nonfarm
+139,Quits: Total Nonfarm
+140,10-Year Treasury Constant Maturity Minus Federal Funds Rate
+141,"Total Assets, All Commercial Banks"
+142,"Total Assets, All Commercial Banks"
+143,"Total Assets, All Commercial Banks"
+144,Real Disposable Personal Income: Per Capita
+145,Motor Vehicle Retail Sales: Heavy Weight Trucks
+146,Motor Vehicle Retail Sales: Heavy Weight Trucks
+147,Motor Vehicle Retail Sales: Heavy Weight Trucks
+148,Real M2 Money Stock
+149,Reserves of Depository Institutions: Total
+150,Employment Level
+151,Employment Level
+152,"Loans and Leases in Bank Credit, All Commercial Banks"
+153,"Loans and Leases in Bank Credit, All Commercial Banks"
+154,"Loans and Leases in Bank Credit, All Commercial Banks"
+155,Trimmed Mean PCE Inflation Rate
+156,Trimmed Mean PCE Inflation Rate
+157,Trimmed Mean PCE Inflation Rate
+158,"Average Hourly Earnings of Production and Nonsupervisory Employees, Total Private"
+159,"Average Hourly Earnings of Production and Nonsupervisory Employees, Total Private"
+160,U.S. / U.K. Foreign Exchange Rate
+161,"All Employees, Manufacturing"
+162,"All Employees, Manufacturing"
+163,Spot Crude Oil Price: West Texas Intermediate (WTI)
+164,New One Family Houses Sold: United States
+165,New One Family Houses Sold: United States
+166,Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity
+167,Personal Consumption Expenditures: Durable Goods
+168,Henry Hub Natural Gas Spot Price
+169,Global price of Copper
+170,"Producer Price Index by Commodity: Metals and Metal Products: Steel Wire, Stainless Steel"
+171,10-Year High Quality Market (HQM) Corporate Bond Spot Rate
+172,Retailers: Inventories to Sales Ratio
+173,Retailers: Inventories to Sales Ratio
+174,30-year Breakeven Inflation Rate
+175,Disposable Personal Income
+176,Canada / U.S. Foreign Exchange Rate
+177,"Trade Balance: Goods and Services, Balance of Payments Basis"
+178,Advance Retail Sales: Retail Trade and Food Services
+179,Advance Retail Sales: Retail Trade and Food Services
+180,Advance Retail Sales: Retail Trade and Food Services
+181,Advance Retail Sales: Retail Trade and Food Services
+182,S&P/Case-Shiller CA-Los Angeles Home Price Index
+183,S&P/Case-Shiller CA-Los Angeles Home Price Index
+184,Consumer Price Index for All Urban Consumers: Medical Care in U.S. City Average
+185,Consumer Price Index for All Urban Consumers: Medical Care in U.S. City Average
+186,Producer Price Index by Commodity: Lumber and Wood Products: Softwood Lumber
+187,Producer Price Index by Commodity: Lumber and Wood Products: Softwood Lumber
+188,Vehicle Miles Traveled
+189,Vehicle Miles Traveled
+190,Vehicle Miles Traveled
+191,Vehicle Miles Traveled
+192,Existing Home Sales: Housing Inventory
+193,S&P/Case-Shiller CA-San Francisco Home Price Index
+194,S&P/Case-Shiller CA-San Francisco Home Price Index
+195,Producer Price Index by Commodity: Lumber and Wood Products: Plywood
+196,"Bank Credit, All Commercial Banks"
+197,"Bank Credit, All Commercial Banks"
+198,"Bank Credit, All Commercial Banks"
+199,Personal Saving
+200,1-Year Treasury Bill Secondary Market Rate
+201,Labor Force Participation Rate - 25-54 Yrs.
+202,Labor Force Participation Rate - 25-54 Yrs.
+203,90-Day AA Nonfinancial Commercial Paper Interest Rate
+204,Sticky Price Consumer Price Index less Food and Energy
+205,Sticky Price Consumer Price Index less Food and Energy
+206,Sticky Price Consumer Price Index less Food and Energy
+207,Sticky Price Consumer Price Index less Food and Energy
+208,Producer Price Index by Industry: Total Manufacturing Industries
+209,South Korea / U.S. Foreign Exchange Rate
+210,Moving 12-Month Total Vehicle Miles Traveled
+211,Moving 12-Month Total Vehicle Miles Traveled
+212,Labor Force Participation Rate - Men
+213,Labor Force Participation Rate - Men
+214,Housing Inventory: Active Listing Count in the United States
+215,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks"
+216,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks"
+217,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks"
+218,Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average
+219,Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average
+220,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft
+221,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft
+222,Economic Policy Uncertainty Index for United States
+223,Cass Freight Index: Shipments
+224,Total Nonfarm Private Payroll Employment
+225,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Inflation-Indexed"
+226,Domestic Auto Production
+227,Domestic Auto Production
+228,"Producer Price Index by Industry: General Freight Trucking, Long-Distance Truckload"
+229,Global price of Iron Ore
+230,"Producer Price Index by Commodity: Rubber and Plastic Products: Synthetic Rubber, Including Styrene-Butadiene Rubber (SBR) and Ethylene Propylene"
+231,"Producer Price Index by Commodity: Rubber and Plastic Products: Synthetic Rubber, Including Styrene-Butadiene Rubber (SBR) and Ethylene Propylene"
+232,Consumer Price Index: All Items for China
+233,3-Month or 90-day Rates and Yields: Bank Bills for Australia
+234,Employment-Population Ratio - 25-54 Yrs.
+235,Real-time Sahm Rule Recession Indicator
+236,Global price of Wheat
+237,90-Day AA Financial Commercial Paper Interest Rate
+238,Currency Component of M1
+239,Currency Component of M1
+240,Total Consumer Credit Owned and Securitized
+241,Total Consumer Credit Owned and Securitized
+242,US Regular All Formulations Gas Price
+243,Unemployment Rate in California
+244,Unemployment Rate in California
+245,S&P/Case-Shiller NY-New York Home Price Index
+246,S&P/Case-Shiller NY-New York Home Price Index
+247,S&P/Case-Shiller WA-Seattle Home Price Index
+248,S&P/Case-Shiller WA-Seattle Home Price Index
+249,Housing Affordability Index (Fixed)
+250,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Paperboard in Sheets and Rolls, Lined and Unlined"
+251,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Paperboard in Sheets and Rolls, Lined and Unlined"
+252,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Germany
+253,Total Construction Spending: Total Construction in the United States
+254,Total Construction Spending: Total Construction in the United States
+255,Total Construction Spending: Total Construction in the United States
+256,Mexico / U.S. Foreign Exchange Rate
+257,Producer Price Index by Commodity: Final Demand: Finished Goods
+258,Producer Price Index by Commodity: Final Demand: Finished Goods
+259,Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average
+260,Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average
+261,Population Level
+262,"Global price of Natural gas, EU"
+263,Consumer Price Index: All Items for the United States
+264,Advance Real Retail and Food Services Sales
+265,Global price of Brent Crude
+266,Producer Price Index by Industry: Semiconductor and Other Electronic Component Manufacturing
+267,Producer Price Index by Industry: Semiconductor and Other Electronic Component Manufacturing
+268,Producer Price Index by Commodity: Metals and Metal Products: Titanium and Titanium-Base Alloy Mill Shapes
+269,Producer Price Index by Commodity: Metals and Metal Products: Titanium and Titanium-Base Alloy Mill Shapes
+270,M2 for United States
+271,M2 for United States
+272,Domestic Auto Inventories
+273,Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity
+274,Median Consumer Price Index
+275,Median Consumer Price Index
+276,Median Consumer Price Index
+277,Median Consumer Price Index
+278,"Trade Weighted U.S. Dollar Index: Advanced Foreign Economies, Goods and Services"
+279,Producer Price Index by Commodity: Lumber and Wood Products: Lumber
+280,Producer Price Index by Commodity: Lumber and Wood Products: Lumber
+281,Industrial Production: Manufacturing (NAICS)
+282,Industrial Production: Manufacturing (NAICS)
+283,M1 for the United States
+284,M1 for the United States
+285,M1 for the United States
+286,"Global price of Coal, Australia"
+287,Unemployment Rate - 20 Yrs. & over
+288,Unemployment Rate - 20 Yrs. & over
+289,S&P/Case-Shiller CA-San Diego Home Price Index
+290,S&P/Case-Shiller CA-San Diego Home Price Index
+291,Unemployment Rate in Florida
+292,Unemployment Rate in Florida
+293,Total Business Inventories
+294,Total Business Inventories
+295,Total Business Inventories
+296,Total Business Inventories
+297,Consumer Price Index of All Items in Japan
+298,"Producer Price Index by Commodity: Metals and Metal Products: Steel Pipe and Tube, Stainless Steel"
+299,"Treasury Long-Term Average (Over 10 Years), Inflation-Indexed"
+300,Personal Consumption Expenditures: Services
+301,Global price of Olive Oil
+302,Bank of Japan: Total Assets for Japan
+303,Producer Price Index by Industry: Cement and Concrete Product Manufacturing
+304,S&P/Case-Shiller IL-Chicago Home Price Index
+305,S&P/Case-Shiller IL-Chicago Home Price Index
+306,Global price of Corn
+307,New Privately-Owned Housing Units Started: Single-Family Units
+308,New Privately-Owned Housing Units Started: Single-Family Units
+309,"All Employees, Temporary Help Services"
+310,"All Employees, Temporary Help Services"
+311,Producer Price Index by Commodity: Special Indexes: Construction Materials
+312,Producer Price Index by Industry: Building Material and Supplies Dealers
+313,Consumer Price Index for All Urban Consumers: Housing in U.S. City Average
+314,Consumer Price Index for All Urban Consumers: Housing in U.S. City Average
+315,"Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 48 Month Loan"
+316,"Real Estate Loans, All Commercial Banks"
+317,"Real Estate Loans, All Commercial Banks"
+318,"Real Estate Loans, All Commercial Banks"
+319,Total Unfilled Job Vacancies for the United States
+320,Total Unfilled Job Vacancies for the United States
+321,M2 for China
+322,Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in U.S. City Average
+323,Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in U.S. City Average
+324,Auto Inventory/Sales Ratio
+325,"Consumer Loans, All Commercial Banks"
+326,"Consumer Loans, All Commercial Banks"
+327,"Consumer Loans, All Commercial Banks"
+328,Global price of Rubber
+329,Consumer Price Index of All Items in the United Kingdom
+330,Global price of Palm Oil
+331,Real M1 Money Stock
+332,Producer Price Index by Commodity: Final Demand: Finished Goods Less Foods and Energy
+333,Producer Price Index by Commodity: Final Demand: Finished Goods Less Foods and Energy
+334,Producer Price Index by Commodity: Chemicals and Allied Products: Industrial Chemicals
+335,Producer Price Index by Commodity: Chemicals and Allied Products: Industrial Chemicals
+336,Consumer Price Index for All Urban Wage Earners and Clerical Workers: All Items in U.S. City Average
+337,Consumer Price Index for All Urban Wage Earners and Clerical Workers: All Items in U.S. City Average
+338,Global price of Aluminum
+339,Personal Consumption Expenditures: Nondurable Goods
+340,Real Broad Effective Exchange Rate for United States
+341,Dow-Jones Industrial Stock Price Index for United States
+342,Dow-Jones Industrial Stock Price Index for United States
+343,4-Week Treasury Bill Secondary Market Rate
+344,Retail Sales: Used Car Dealers
+345,Retail Sales: Used Car Dealers
+346,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Japan
+347,Unemployment Rate in Texas
+348,Unemployment Rate in Texas
+349,India / U.S. Foreign Exchange Rate
+350,"Producer Price Index by Commodity: Metals and Metal Products: Hot Rolled Steel Sheet and Strip, Including Tin Mill Products"
+351,"Producer Price Index by Commodity: Metals and Metal Products: Hot Rolled Steel Sheet and Strip, Including Tin Mill Products"
+352,Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Normalised for the United States
+353,Average Sales Price of New Manufactured Homes: Total Homes in West Census Region
+354,Median Sales Price of Existing Homes
+355,"All Employees, Total Private"
+356,"All Employees, Total Private"
+357,S&P/Case-Shiller AZ-Phoenix Home Price Index
+358,S&P/Case-Shiller AZ-Phoenix Home Price Index
+359,Producer Price Index by Commodity: Metals and Metal Products: Yellow Brass Scrap
+360,S&P/Case-Shiller TX-Dallas Home Price Index
+361,S&P/Case-Shiller TX-Dallas Home Price Index
+362,Real Personal Consumption Expenditures: Durable Goods
+363,Unemployment Rate for United States
+364,Unemployment Rate for United States
+365,Unemployment Rate for United States
+366,Not in Labor Force
+367,Not in Labor Force
+368,Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average
+369,Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average
+370,Median Sales Price for New Houses Sold in the United States
+371,"Average Price: Eggs, Grade A, Large (Cost per Dozen) in U.S. City Average"
+372,"Average Weekly Hours of All Employees, Total Private"
+373,"Average Weekly Hours of All Employees, Total Private"
+374,Monetary Base; Currency in Circulation
+375,"Global price of LNG, Asia"
+376,Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity
+377,Brazil / U.S. Foreign Exchange Rate
+378,Producer Price Index by Commodity: Textile Products and Apparel: Polyester Manufactured Fibers
+379,Retail Sales: Retail Trade and Food Services
+380,Retail Sales: Retail Trade and Food Services
+381,Retail Sales: Retail Trade and Food Services
+382,Retail Sales: Retail Trade and Food Services
+383,S&P/Case-Shiller CO-Denver Home Price Index
+384,S&P/Case-Shiller CO-Denver Home Price Index
+385,Coincident Economic Activity Index for the United States
+386,Harmonized Index of Consumer Prices: All Items for Euro area (19 countries)
+387,Number Unemployed for 27 Weeks & over
+388,Number Unemployed for 27 Weeks & over
+389,Consumer Price Index: All Items for India
+390,S&P/Case-Shiller MA-Boston Home Price Index
+391,S&P/Case-Shiller MA-Boston Home Price Index
+392,Global price of Agr. Raw Material Index
+393,Federal Minimum Hourly Wage for Nonfarm Workers for the United States
+394,U.S. / Australia Foreign Exchange Rate
+395,S&P/Case-Shiller FL-Miami Home Price Index
+396,S&P/Case-Shiller FL-Miami Home Price Index
+397,"Producer Price Index by Industry: Software Publishers: Software Maintenance, Technical Support, and Other Services Related to Software Publishing"
+398,Producer Price Index by Industry: Glass and Glass Product Manufacturing
+399,Producer Price Index by Industry: Glass and Glass Product Manufacturing
+400,Freight Transportation Services Index
+401,Freight Transportation Services Index
+402,Global price of WTI Crude
+403,Unemployment Rate - Hispanic or Latino
+404,Unemployment Rate - Hispanic or Latino
+405,Total Construction Spending: Nonresidential in the United States
+406,Total Construction Spending: Nonresidential in the United States
+407,Total Construction Spending: Nonresidential in the United States
+408,"All Employees, Construction"
+409,"All Employees, Construction"
+410,"Unemployment Rate in Los Angeles County, CA"
+411,"Treasury and Agency Securities: Mortgage-Backed Securities (MBS), All Commercial Banks"
+412,"Treasury and Agency Securities: Mortgage-Backed Securities (MBS), All Commercial Banks"
+413,"Treasury and Agency Securities: Mortgage-Backed Securities (MBS), All Commercial Banks"
+414,Unemployment Rate - Women
+415,Unemployment Rate - Women
+416,S&P/Case-Shiller GA-Atlanta Home Price Index
+417,S&P/Case-Shiller GA-Atlanta Home Price Index
+418,Venezuela / U.S. Foreign Exchange Rate
+419,"All Employees, Federal"
+420,"All Employees, Federal"
+421,Producer Price Index by Commodity: Chemicals and Allied Products: Carbon Black
+422,Hires: Total Nonfarm
+423,Hires: Total Nonfarm
+424,Hires: Total Nonfarm
+425,Hires: Total Nonfarm
+426,Unemployment Rate - White
+427,Unemployment Rate - White
+428,Producer Price Index by Industry: Corrugated and Solid Fiber Box Manufacturing: Corrugated Shipping Containers for Paper and Allied Products
+429,"Interest Rates, Discount Rate for China"
+430,"Commercial Bank Interest Rate on Credit Card Plans, All Accounts"
+431,"Trade Weighted U.S. Dollar Index: Emerging Markets Economies, Goods and Services"
+432,Global price of Soybeans
+433,Advance Retail Sales: Clothing and Clothing Accessory Stores
+434,Advance Retail Sales: Clothing and Clothing Accessory Stores
+435,Advance Retail Sales: Clothing and Clothing Accessory Stores
+436,Advance Retail Sales: Clothing and Clothing Accessory Stores
+437,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United Kingdom
+438,"All Employees, Coal Mining"
+439,"All Employees, Coal Mining"
+440,Employment Rate: Aged 15-64: All Persons for the United States
+441,Employment Rate: Aged 15-64: All Persons for the United States
+442,"Propane Prices: Mont Belvieu, Texas"
+443,"Treasury and Agency Securities, All Commercial Banks"
+444,"Treasury and Agency Securities, All Commercial Banks"
+445,"Treasury and Agency Securities, All Commercial Banks"
+446,5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+447,"Consumer Price Index: Total, All Items for Canada"
+448,Demand Deposits
+449,Demand Deposits
+450,Truck Tonnage
+451,"Interest Rates, Discount Rate for Japan"
+452,S&P/Case-Shiller DC-Washington Home Price Index
+453,S&P/Case-Shiller DC-Washington Home Price Index
+454,Unemployment Rate in New York
+455,Unemployment Rate in New York
+456,20-year Breakeven Inflation Rate
+457,Unemployment Rate: Aged 15 and Over: All Persons for Canada
+458,Unemployment Rate: Aged 15 and Over: All Persons for Canada
+459,"Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides and Skins, Including Cattle"
+460,"Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides and Skins, Including Cattle"
+461,"Producer Price Index by Commodity: Hides, Skins, Leather, and Related Products: Hides and Skins, Including Cattle"
+462,Global price of Barley
+463,Global Economic Policy Uncertainty Index: Current Price Adjusted GDP
+464,Motor Vehicle Retail Sales: Domestic Autos
+465,Motor Vehicle Retail Sales: Domestic Autos
+466,Motor Vehicle Retail Sales: Domestic Autos
+467,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Inflation-Indexed"
+468,Unemployment Rate in Ohio
+469,Unemployment Rate in Ohio
+470,Producer Price Index by Industry: Chemical Manufacturing
+471,Real Personal Consumption Expenditures: Services
+472,Real Personal Consumption Expenditures: Services
+473,16% Trimmed-Mean Consumer Price Index
+474,16% Trimmed-Mean Consumer Price Index
+475,16% Trimmed-Mean Consumer Price Index
+476,16% Trimmed-Mean Consumer Price Index
+477,Advance Retail Sales: Food Services and Drinking Places
+478,Advance Retail Sales: Food Services and Drinking Places
+479,Advance Retail Sales: Food Services and Drinking Places
+480,Advance Retail Sales: Food Services and Drinking Places
+481,Consumer Price Index of All Items in Germany
+482,Discount Window Primary Credit Rate
+483,Import Price Index (End Use): Bauxite and Aluminum
+484,"Compensation of Employees, Received: Wage and Salary Disbursements"
+485,Interest Rates: Long-term government bond yields: 10-year: Main (including benchmark) for India
+486,Consumer Price Index for All Urban Consumers: Energy in U.S. City Average
+487,Consumer Price Index for All Urban Consumers: Energy in U.S. City Average
+488,Total Business Sales
+489,Total Business Sales
+490,Total Business Sales
+491,Total Business Sales
+492,"Average Weekly Hours of Production and Nonsupervisory Employees, Manufacturing"
+493,"Average Weekly Hours of Production and Nonsupervisory Employees, Manufacturing"
+494,"Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, All Commercial Banks"
+495,"Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, All Commercial Banks"
+496,"Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, All Commercial Banks"
+497,Average Weeks Unemployed
+498,Average Weeks Unemployed
+499,Producer Price Index by Commodity: Chemicals and Allied Products: Sulfuric Acid
+500,Disposable Personal Income: Per capita: Current dollars
+501,"Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights"
+502,"Load Factor for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights"
+503,"Retail Sales: Beer, Wine, and Liquor Stores"
+504,"Retail Sales: Beer, Wine, and Liquor Stores"
+505,"Retail Sales: Beer, Wine, and Liquor Stores"
+506,"Retail Sales: Beer, Wine, and Liquor Stores"
+507,"Average Hourly Earnings of Production and Nonsupervisory Employees, Manufacturing"
+508,"Average Hourly Earnings of Production and Nonsupervisory Employees, Manufacturing"
+509,Producer Price Index by Industry: Gypsum Product Manufacturing: Gypsum Building Materials
+510,M2 for Japan
+511,M2 for Japan
+512,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Euro Area
+513,Global price of Shrimp
+514,"All Employees, Leisure and Hospitality"
+515,"All Employees, Leisure and Hospitality"
+516,Retail Money Market Funds
+517,Retail Money Market Funds
+518,"Producer Price Index by Commodity: Chemicals and Allied Products: Phosphoric Acid, 52-54 Percent APA, Superphosphates and Other Phosphate Fertilizer Materials"
+519,Import Price Index (End Use): All Commodities
+520,Working Age Population: Aged 15-64: All Persons for Japan
+521,Working Age Population: Aged 15-64: All Persons for Japan
+522,S&P/Case-Shiller OR-Portland Home Price Index
+523,S&P/Case-Shiller OR-Portland Home Price Index
+524,S&P/Case-Shiller NV-Las Vegas Home Price Index
+525,S&P/Case-Shiller NV-Las Vegas Home Price Index
+526,Housing Inventory: Median Days on Market in the United States
+527,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Recyclable Paper"
+528,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Recyclable Paper"
+529,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Recyclable Paper"
+530,"Producer Price Index by Commodity: Chemicals and Allied Products: Synthetic Ammonia, Nitric Acid, Ammonium Compounds, and Urea"
+531,"Interest Rates, Discount Rate for India"
+532,"Producer Price Index by Commodity: Metals and Metal Products: Hot Rolled Steel Bars, Plates, and Structural Shapes"
+533,10-Year High Quality Market (HQM) Corporate Bond Par Yield
+534,Producer Price Index by Commodity: Special Indexes: Copper and Copper Products
+535,Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average
+536,Consumer Price Index for All Urban Consumers: Transportation in U.S. City Average
+537,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Canada
+538,6-Month Treasury Bill Secondary Market Rate
+539,Manufacturers: Inventories to Sales Ratio
+540,Manufacturers: Inventories to Sales Ratio
+541,S&P/Case-Shiller 10-City Composite Home Price Index
+542,S&P/Case-Shiller 10-City Composite Home Price Index
+543,30-Year High Quality Market (HQM) Corporate Bond Spot Rate
+544,"Average Price: Bread, White, Pan (Cost per Pound/453.6 Grams) in U.S. City Average"
+545,New Privately-Owned Housing Units Completed: Total Units
+546,New Privately-Owned Housing Units Completed: Total Units
+547,Leading Indicators OECD: Leading indicators: CLI: Normalised for the United States
+548,M2 for Euro Area
+549,Chicago Fed National Activity Index
+550,Manufacturers' New Orders: Total Manufacturing
+551,Manufacturers' New Orders: Total Manufacturing
+552,Labor Force Participation Rate - Black or African American
+553,Labor Force Participation Rate - Black or African American
+554,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for France
+555,Malaysia / U.S. Foreign Exchange Rate
+556,"Average Weekly Hours of All Employees, Manufacturing"
+557,"Average Weekly Hours of All Employees, Manufacturing"
+558,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks"
+559,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks"
+560,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks"
+561,"Cash Assets, All Commercial Banks"
+562,"Cash Assets, All Commercial Banks"
+563,"Cash Assets, All Commercial Banks"
+564,Global price of Metal index
+565,"Industrial Production: Utilities: Electric and Gas Utilities (NAICS = 2211,2)"
+566,"Industrial Production: Utilities: Electric and Gas Utilities (NAICS = 2211,2)"
+567,Consumer Price Index for All Urban Consumers: Airline Fares in U.S. City Average
+568,Consumer Price Index for All Urban Consumers: Airline Fares in U.S. City Average
+569,Existing Home Sales: Months Supply
+570,Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the United States
+571,"Unemployment Rate - Bachelor's Degree and Higher, 25 Yrs. & over"
+572,"Unemployment Rate - Bachelor's Degree and Higher, 25 Yrs. & over"
+573,Registered Unemployment Rate for Germany
+574,Registered Unemployment Rate for Germany
+575,Household Estimates
+576,"Condo Price Index for New York, New York"
+577,"Condo Price Index for New York, New York"
+578,Real Personal Income
+579,"Employment Level - Part-Time for Economic Reasons, All Industries"
+580,"All Employees, Government"
+581,"All Employees, Government"
+582,Producer Price Index by Industry: Deep Sea Freight Transportation: Deep Sea Freight Transportation Services
+583,U.S. Imports of Goods by Customs Basis from China
+584,Unemployment Rate in the United Kingdom
+585,Unemployment Level - Permanent Job Losers
+586,Unemployment Level - Permanent Job Losers
+587,S&P/Case-Shiller FL-Tampa Home Price Index
+588,S&P/Case-Shiller FL-Tampa Home Price Index
+589,M3 for the Euro Area
+590,M3 for the Euro Area
+591,M3 for the Euro Area
+592,Producer Price Index by Industry: Aerospace Product and Parts Manufacturing
+593,Producer Price Index by Industry: Aerospace Product and Parts Manufacturing
+594,Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average
+595,Consumer Price Index for All Urban Consumers: Food at Home in U.S. City Average
+596,Global price of Cotton
+597,Revolving Consumer Credit Owned and Securitized
+598,Revolving Consumer Credit Owned and Securitized
+599,Switzerland / U.S. Foreign Exchange Rate
+600,Capacity Utilization: Manufacturing (NAICS)
+601,"Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan"
+602,Global price of Beef
+603,Unemployment Rate in Pennsylvania
+604,Unemployment Rate in Pennsylvania
+605,Consumer Price Index for All Urban Consumers: Food in U.S. City Average
+606,Consumer Price Index for All Urban Consumers: Food in U.S. City Average
+607,Total Construction Spending: Residential in the United States
+608,Total Construction Spending: Residential in the United States
+609,Total Construction Spending: Residential in the United States
+610,Producer Price Index by Commodity: Rubber and Plastic Products: Unlaminated Polyethylene Film and Sheet
+611,"Global price of Rice, Thailand"
+612,Real personal income excluding current transfer receipts
+613,20-Year High Quality Market (HQM) Corporate Bond Spot Rate
+614,NBER based Recession Indicators for the United States from the Peak through the Trough
+615,Kansas City Financial Stress Index
+616,"Producer Price Index by Industry: Iron and Steel Pipe and Tube Manufacturing from Purchased Steel: Iron and Steel Pipes and Tubes, from Purchased Iron and Steel"
+617,"Average Price: Chicken Breast, Boneless (Cost per Pound/453.6 Grams) in U.S. City Average"
+618,Global price of Uranium
+619,US Regular Conventional Gas Price
+620,"Revenue Passenger Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights"
+621,"Revenue Passenger Miles for U.S. Air Carrier Domestic and International, Scheduled Passenger Flights"
+622,Producer Price Index by Commodity: Metals and Metal Products
+623,Unemployment Rate in Michigan
+624,Unemployment Rate in Michigan
+625,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Australia
+626,Consumer Price Index for All Urban Consumers: Shelter in U.S. City Average
+627,Consumer Price Index for All Urban Consumers: Shelter in U.S. City Average
+628,Thailand / U.S. Foreign Exchange Rate
+629,Sticky Price Consumer Price Index
+630,Sticky Price Consumer Price Index
+631,Sticky Price Consumer Price Index
+632,Sticky Price Consumer Price Index
+633,Exports: Value Goods for China
+634,Exports: Value Goods for China
+635,Exports: Value Goods for China
+636,Exports: Value Goods for China
+637,Exports: Value Goods for China
+638,"Finance Rate on Personal Loans at Commercial Banks, 24 Month Loan"
+639,Labor Force Participation Rate - 16-19 Yrs.
+640,Labor Force Participation Rate - 16-19 Yrs.
+641,"Producer Price Index by Commodity: Chemicals and Allied Products: Chlorine, Sodium Hydroxide, and Other Alkalies"
+642,Unemployment Rate: Aged 15-64: All Persons for the United States
+643,Unemployment Rate: Aged 15-64: All Persons for the United States
+644,Existing Single-Family Home Sales
+645,Existing Single-Family Home Sales
+646,Producer Price Index by Industry: Urethane and Other Foam Product Manufacturing: Polyurethane Foam Formed and Slab Stock for Pillows/Seating/etc.
+647,Total Borrowings from the Federal Reserve
+648,Commercial Paper Outstanding
+649,Commercial Paper Outstanding
+650,"Average Weekly Earnings of All Employees, Total Private"
+651,"Average Weekly Earnings of All Employees, Total Private"
+652,Advance Retail Sales: Furniture and Home Furnishings Stores
+653,Advance Retail Sales: Furniture and Home Furnishings Stores
+654,Advance Retail Sales: Furniture and Home Furnishings Stores
+655,Advance Retail Sales: Furniture and Home Furnishings Stores
+656,Producer Price Index by Commodity: Transportation Services: Truck Transportation of Freight
+657,Producer Price Index by Commodity: Transportation Services: Truck Transportation of Freight
+658,M1 for China
+659,M1 for China
+660,M1 for China
+661,M1 for China
+662,S&P/Case-Shiller MN-Minneapolis Home Price Index
+663,S&P/Case-Shiller MN-Minneapolis Home Price Index
+664,"Average Price: Ground Beef, 100% Beef (Cost per Pound/453.6 Grams) in U.S. City Average"
+665,"Producer Price Index by Industry: Asphalt Shingle and Coating Materials Manufacturing: Prepared Asphalt and Tar Roofing and Siding Products, Including Saturated Felts for Nonbuilding Use"
+666,"Total Unemployed Plus Discouraged Workers, as a Percent of the Civilian Labor Force Plus Discouraged Workers (U-4)"
+667,"Total Unemployed Plus Discouraged Workers, as a Percent of the Civilian Labor Force Plus Discouraged Workers (U-4)"
+668,Total Reserves excluding Gold for China
+669,Total Reserves excluding Gold for China
+670,Unemployment Rate: Aged 15-64: All Persons for Japan
+671,Unemployment Rate: Aged 15-64: All Persons for Japan
+672,Global price of Dubai Crude
+673,"Interest Rates, Government Securities, Treasury Bills for Brazil"
+674,Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average
+675,Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average
+676,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate
+677,"Average Price: Bacon, Sliced (Cost per Pound/453.6 Grams) in U.S. City Average"
+678,Real Personal Consumption Expenditures: Goods
+679,Real Personal Consumption Expenditures: Goods
+680,Rail Freight Carloads
+681,Rail Freight Carloads
+682,Real Personal Consumption Expenditures: Nondurable Goods
+683,Consumer Price Index: Harmonized Prices: Total All Items for the Euro Area
+684,Consumer Price Index: Harmonized Prices: Total All Items for the Euro Area
+685,Consumer Price Index: Harmonized Prices: Total All Items for the Euro Area
+686,Consumer Price Index: All Items for Brazil
+687,3-Month or 90-day Rates and Yields: Eurodollar Deposits for the United States
+688,Producer Price Index by Commodity: Farm Products: Almonds
+689,Global price of Bananas
+690,Unemployment Rate - Men
+691,Unemployment Rate - Men
+692,Manufacturers' New Orders: Consumer Durable Goods
+693,Manufacturers' New Orders: Consumer Durable Goods
+694,"All Employees, Truck Transportation"
+695,"All Employees, Truck Transportation"
+696,"Producer Price Index by Commodity: Lumber and Wood Products: Logs, Bolts, Timber, Pulpwood and Wood Chips"
+697,"Producer Price Index by Commodity: Lumber and Wood Products: Logs, Bolts, Timber, Pulpwood and Wood Chips"
+698,"Producer Price Index by Commodity: Lumber and Wood Products: Logs, Bolts, Timber, Pulpwood and Wood Chips"
+699,"Producer Price Index by Commodity: Lumber and Wood Products: Logs, Bolts, Timber, Pulpwood and Wood Chips"
+700,"Producer Price Index by Commodity: Lumber and Wood Products: Logs, Bolts, Timber, Pulpwood and Wood Chips"
+701,Producer Price Index by Commodity: Metals and Metal Products: Iron and Steel Scrap
+702,Retail Sales: Restaurants and Other Eating Places
+703,Retail Sales: Restaurants and Other Eating Places
+704,"Industrial Production: Mining, Quarrying, and Oil and Gas Extraction: Crude Oil (NAICS = 211111pt.)"
+705,"Industrial Production: Mining, Quarrying, and Oil and Gas Extraction: Crude Oil (NAICS = 211111pt.)"
+706,New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More
+707,New Privately-Owned Housing Units Started: Units in Buildings with 5 Units or More
+708,Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast
+709,Labor Force Participation Rate - 55 Yrs. & over
+710,Labor Force Participation Rate - 55 Yrs. & over
+711,Light Weight Vehicle Sales
+712,Unemployment Rate in South Carolina
+713,Unemployment Rate in South Carolina
+714,Producer Price Index by Commodity: Final Demand
+715,Producer Price Index by Commodity: Final Demand
+716,"Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers"
+717,"Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers"
+718,"Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers"
+719,"Advance Retail Sales: Building Materials, Garden Equipment and Supplies Dealers"
+720,Market Value of Marketable Treasury Debt
+721,"Unemployment Rate - High School Graduates, No College, 25 Yrs. & over"
+722,"Unemployment Rate - High School Graduates, No College, 25 Yrs. & over"
+723,Consumer Price Index for All Urban Consumers: Water and Sewer and Trash Collection Services in U.S. City Average
+724,Consumer Price Index for All Urban Consumers: Water and Sewer and Trash Collection Services in U.S. City Average
+725,Unemployment Rate in Massachusetts
+726,Unemployment Rate in Massachusetts
+727,"Interest Rates, Discount Rate for Republic of Korea"
+728,Unemployment Rate - Asian
+729,Unemployment Rate - Asian
+730,"Unemployment Rate - Manufacturing Industry, Private Wage and Salary Workers"
+731,"Consumer Price Index for All Urban Consumers: Meats, Poultry, Fish, and Eggs in U.S. City Average"
+732,"Consumer Price Index for All Urban Consumers: Meats, Poultry, Fish, and Eggs in U.S. City Average"
+733,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Italy
+734,Unemployment Rate in Missouri
+735,Unemployment Rate in Missouri
+736,Consumer Price Index for All Urban Consumers: Food Away from Home in U.S. City Average
+737,Consumer Price Index for All Urban Consumers: Food Away from Home in U.S. City Average
+738,Manufacturers' New Orders: Computers and Electronic Products
+739,Manufacturers' New Orders: Computers and Electronic Products
+740,Producer Price Index by Commodity: Lumber and Wood Products: Oak and Maple Hardwood Flooring
+741,Unemployment Rate in Illinois
+742,Unemployment Rate in Illinois
+743,"Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand, Gravel, and Crushed Stone"
+744,"Producer Price Index by Commodity: Nonmetallic Mineral Products: Construction Sand, Gravel, and Crushed Stone"
+745,Retailers Inventories
+746,Retailers Inventories
+747,Retailers Inventories
+748,Retailers Inventories
+749,Real Broad Dollar Index
+750,Chicago Fed National Activity Index: Three Month Moving Average
+751,M1 for Japan
+752,M1 for Japan
+753,M1 for Japan
+754,M1 for Japan
+755,M1 for Japan
+756,Other Liquid Deposits: Total
+757,Other Liquid Deposits: Total
+758,"All Employees, Retail Trade"
+759,"All Employees, Retail Trade"
+760,Producer Price Index by Industry: Flat Glass Manufacturing
+761,Total Population: All Ages including Armed Forces Overseas
+762,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Greece
+763,Unemployment Rate in Kentucky
+764,Unemployment Rate in Kentucky
+765,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Medium Density Fiberboard (MDF) Made from MDF Produced at the Same Location"
+766,Global price of Rapeseed Oil
+767,Air Revenue Passenger Miles
+768,Air Revenue Passenger Miles
+769,Monetary Base; Reserve Balances
+770,U.S. Natural Gas Liquid Composite Price
+771,Total Share Prices for All Shares for the United States
+772,Total Share Prices for All Shares for the United States
+773,Unemployment Rate in New Jersey
+774,Unemployment Rate in New Jersey
+775,"KC Fed Labor Market Conditions Index, Momentum Indicator"
+776,Median Sales Price of Existing Single-Family Homes
+777,Producer Price Index by Commodity: Machinery and Equipment: Construction Machinery and Equipment
+778,Producer Price Index by Commodity: Machinery and Equipment: Construction Machinery and Equipment
+779,Unemployment Rate in Colorado
+780,Unemployment Rate in Colorado
+781,Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Lumber
+782,"Yields on Short-Term United States Securities, Three-Six Month Treasury Notes and Certificates, Three Month Treasury Bills for United States"
+783,"Yields on Short-Term United States Securities, Three-Six Month Treasury Notes and Certificates, Three Month Treasury Bills for United States"
+784,"Producer Price Index by Commodity: Lumber and Wood Products: Wood Pallets and Pallet Containers, Wood and Metal Combination"
+785,"Producer Price Index by Commodity: Lumber and Wood Products: Wood Pallets and Pallet Containers, Wood and Metal Combination"
+786,"Producer Price Index by Commodity: Lumber and Wood Products: Wood Pallets and Pallet Containers, Wood and Metal Combination"
+787,3-Month or 90-day Rates and Yields: Interbank Rates for the United States
+788,Business Applications: Total for All NAICS in the United States
+789,Business Applications: Total for All NAICS in the United States
+790,South Africa / U.S. Foreign Exchange Rate
+791,Unemployment Rate in Wisconsin
+792,Unemployment Rate in Wisconsin
+793,Producer Price Index by Commodity: Rubber and Plastic Products: Plastics Water Pipe
+794,"Unemployment Rate in Seattle-Tacoma-Bellevue, WA (MSA)"
+795,"Unemployment Rate in Seattle-Tacoma-Bellevue, WA (MSA)"
+796,S&P/Case-Shiller NC-Charlotte Home Price Index
+797,S&P/Case-Shiller NC-Charlotte Home Price Index
+798,Producer Prices Index: Economic activities: Industrial activities: Total for China
+799,Consumer Price Index: All Items for Korea
+800,Producer Price Index by Commodity: Industrial Commodities
+801,Producer Price Index by Commodity: Metals and Metal Products: Fabricated Steel Plate
+802,Producer Price Index by Commodity: Metals and Metal Products: Fabricated Steel Plate
+803,Producer Price Index by Commodity: Metals and Metal Products: Fabricated Steel Plate
+804,Producer Price Index by Commodity: Metals and Metal Products: Copper Wire and Cable
+805,Unemployment Rate in Georgia
+806,Unemployment Rate in Georgia
+807,Layoffs and Discharges: Total Nonfarm
+808,Layoffs and Discharges: Total Nonfarm
+809,Layoffs and Discharges: Total Nonfarm
+810,Layoffs and Discharges: Total Nonfarm
+811,Federal Minimum Hourly Wage for Farm Workers for the United States
+812,Sahm Rule Recession Indicator
+813,Consumer Price Index: All Items Excluding Food and Energy for the United States
+814,Price Pressures Measure
+815,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units
+816,New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units
+817,Total Money Supply for United States
+818,Total Money Supply for United States
+819,Employment Rate: Aged 25-54: All Persons for the United States
+820,Employment Rate: Aged 25-54: All Persons for the United States
+821,US Diesel Sales Price
+822,Job Openings: Total Private
+823,Job Openings: Total Private
+824,Job Openings: Total Private
+825,Job Openings: Total Private
+826,"Producer Price Index by Industry: Semiconductors and Related Device Manufacturing: Other Semiconductor Devices, Including Parts Such as Chips, Wafers, and Heat Sinks"
+827,3-Month or 90-day Rates and Yields: Interbank Rates for Germany
+828,Average Price: Electricity per Kilowatt-Hour in U.S. City Average
+829,Deflation Probability
+830,Job Openings: Manufacturing
+831,Job Openings: Manufacturing
+832,Job Openings: Manufacturing
+833,Job Openings: Manufacturing
+834,Personal Consumption Expenditures: Goods
+835,Retailers Sales
+836,Retailers Sales
+837,Retailers Sales
+838,Retailers Sales
+839,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Inflation-Indexed"
+840,Producer Price Index by Commodity: Chemicals and Allied Products: Thermoplastic Resins and Plastics Materials
+841,Producer Price Index by Commodity: Chemicals and Allied Products: Thermoplastic Resins and Plastics Materials
+842,Producer Price Index by Commodity: Chemicals and Allied Products: Thermoplastic Resins and Plastics Materials
+843,Producer Price Index by Commodity: Chemicals and Allied Products: Thermoplastic Resins and Plastics Materials
+844,3-Month or 90-day Rates and Yields: Certificates of Deposit for the United States
+845,Rail Freight Intermodal Traffic
+846,Rail Freight Intermodal Traffic
+847,"Housing Inventory: Active Listing Count in Phoenix-Mesa-Scottsdale, AZ (CBSA)"
+848,Unemployment Rate in Alabama
+849,Unemployment Rate in Alabama
+850,Consumer Price Index of All Items in Italy
+851,Taiwan / U.S. Foreign Exchange Rate
+852,Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Normalised for China
+853,"Unemployment Rate in San Francisco County/City, CA"
+854,Unemployment Rate in North Carolina
+855,Unemployment Rate in North Carolina
+856,"Global price of Sugar, No. 11, World"
+857,Industrial Production: Manufacturing: Durable Goods: Motor Vehicles and Parts (NAICS = 3361-3)
+858,Industrial Production: Manufacturing: Durable Goods: Motor Vehicles and Parts (NAICS = 3361-3)
+859,"Producer Price Index by Industry: Fabricated Structural Metal Manufacturing: Fabricated Structural Iron and Steel for Industrial Buildings Metal Bar Joists, Short Span"
+860,3-Month Commercial Paper Minus Federal Funds Rate
+861,Advance Retail Sales: Grocery Stores
+862,Advance Retail Sales: Grocery Stores
+863,Advance Retail Sales: Grocery Stores
+864,Advance Retail Sales: Grocery Stores
+865,Global price of Zinc
+866,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for New Zealand
+867,Real Broad Effective Exchange Rate for China
+868,Export Price Index (End Use): All Commodities
+869,5-Year Treasury Constant Maturity Minus Federal Funds Rate
+870,"All Employees, Oil and Gas Extraction"
+871,"All Employees, Oil and Gas Extraction"
+872,Unemployment Level - Women
+873,Unemployment Level - Women
+874,M2 for Republic of Korea
+875,M2 for Republic of Korea
+876,Unemployment Rate in Tennessee
+877,Unemployment Rate in Tennessee
+878,"Interest Rates, Discount Rate for Euro Area"
+879,Industrial Production: Manufacturing (SIC)
+880,Industrial Production: Manufacturing (SIC)
+881,Consumer Price Index: All Items for Indonesia
+882,Small-Denomination Time Deposits: Total
+883,Small-Denomination Time Deposits: Total
+884,"Consumer Loans: Other Consumer Loans: Automobile Loans, All Commercial Banks"
+885,"Consumer Loans: Other Consumer Loans: Automobile Loans, All Commercial Banks"
+886,Consumer Price Index of All Items in France
+887,Average Sales Price for New Houses Sold in the United States
+888,Merchant Wholesalers: Inventories to Sales Ratio
+889,Merchant Wholesalers: Inventories to Sales Ratio
+890,Purchase Only House Price Index for the United States
+891,Purchase Only House Price Index for the United States
+892,"Unemployment Rate - Construction Industry, Private Wage and Salary Workers"
+893,Manufacturers' New Orders: Durable Goods Excluding Transportation
+894,Manufacturers' New Orders: Durable Goods Excluding Transportation
+895,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products"
+896,Unemployment Rate in Minnesota
+897,Unemployment Rate in Minnesota
+898,Unemployment Level - Men
+899,Unemployment Level - Men
+900,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Ireland
+901,New Private Housing Units Authorized by Building Permits for California
+902,New Private Housing Units Authorized by Building Permits for California
+903,Advance Retail Sales: Gasoline Stations
+904,Advance Retail Sales: Gasoline Stations
+905,Advance Retail Sales: Gasoline Stations
+906,Advance Retail Sales: Gasoline Stations
+907,Monetary Base M0 in the United Kingdom
+908,Producer Price Index by Industry: Truck Transportation
+909,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Sweden
+910,Personal consumption expenditures excluding food and energy
+911,M1 for Euro Area
+912,M1 for Euro Area
+913,Consumer Price Index for All Urban Consumers: Medical Care Services in U.S. City Average
+914,Consumer Price Index for All Urban Consumers: Medical Care Services in U.S. City Average
+915,Consumer Price Index: Total All Items for China
+916,Consumer Price Index: Total All Items for China
+917,"Producer Price Index by Industry: Paint and Coating Manufacturing: Special Purpose Coatings Including Marine, Industrial, Construction and Maintenance Coatings, etc."
+918,All Employees: Total Nonfarm in California
+919,All Employees: Total Nonfarm in California
+920,All Employees: Total Nonfarm in California
+921,Labor Force Participation Rate for California
+922,Labor Force Participation Rate for California
+923,Quits: Total Private
+924,Quits: Total Private
+925,Quits: Total Private
+926,Quits: Total Private
+927,Hong Kong / U.S. Foreign Exchange Rate
+928,"Not in Labor Force - Want a Job Now, Marginally Attached (Searched for Work in Previous Year, Available to Work Now)"
+929,Consumer Price Index: Total All Items for Japan
+930,Consumer Price Index: Total All Items for Japan
+931,Consumer Price Index: Total All Items for Japan
+932,Unemployment Rate - Job Losers (U-2)
+933,Unemployment Rate - Job Losers (U-2)
+934,Producer Price Index by Commodity: Chemicals and Allied Products
+935,Sri Lanka / U.S. Foreign Exchange Rate
+936,Consumer Price Index: All Items for Mexico
+937,Producer Price Index by Commodity: Processed Foods and Feeds: Wheat Flour
+938,Producer Price Index by Commodity: Processed Foods and Feeds: Wheat Flour
+939,"Unemployment Rate in Miami-Dade County, FL"
+940,Kerosene-Type Jet Fuel Prices: U.S. Gulf Coast
+941,Consumer Price Index for All Urban Consumers: Durables in U.S. City Average
+942,Consumer Price Index for All Urban Consumers: Durables in U.S. City Average
+943,Global price of Energy index
+944,Labor Force Flows Employed to Unemployed
+945,Labor Force Flows Employed to Unemployed
+946,"Dividend Yield of Common Stocks on the New York Stock Exchange, Composite Index for United States"
+947,Producer Price Index by Industry: Pharmaceutical Preparation Manufacturing
+948,"Labor Force Participation Rate - With No Disability, 65 Years and over"
+949,Existing Single-Family Home Sales: Housing Inventory
+950,Consumer Price Index: All Items for Russian Federation
+951,"Interest Rates, Government Securities, Government Bonds for United Kingdom"
+952,Singapore / U.S. Foreign Exchange Rate
+953,"Total Liabilities, All Commercial Banks"
+954,"Total Liabilities, All Commercial Banks"
+955,"Total Liabilities, All Commercial Banks"
+956,Total Separations: Total Nonfarm
+957,Total Separations: Total Nonfarm
+958,Total Separations: Total Nonfarm
+959,Total Separations: Total Nonfarm
+960,"Unemployment Rate - College Graduates - Master's Degree, 25 years and over"
+961,Future Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia
+962,Future Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia
+963,3-Month Treasury Bill Minus Federal Funds Rate
+964,Personal current transfer receipts: Government social benefits to persons: Unemployment insurance
+965,"Average Hourly Earnings of All Employees, Construction"
+966,"Average Hourly Earnings of All Employees, Construction"
+967,Advance Retail Sales: Electronics and Appliance Stores
+968,Advance Retail Sales: Electronics and Appliance Stores
+969,Advance Retail Sales: Electronics and Appliance Stores
+970,Advance Retail Sales: Electronics and Appliance Stores
+971,1-Year High Quality Market (HQM) Corporate Bond Spot Rate
+972,Consumer Price Index: All Items for South Africa
+973,7-year Breakeven Inflation Rate
+974,Unemployment Rate in West Virginia
+975,Unemployment Rate in West Virginia
+976,Consumer Price Index: OECD Groups: All Items Non-Food and Non-Energy for the United States
+977,Consumer Price Index: OECD Groups: All Items Non-Food and Non-Energy for the United States
+978,M1 for the United Kingdom
+979,M1 for the United Kingdom
+980,M1 for the United Kingdom
+981,Global price of Soybeans Oil
+982,Median Weeks Unemployed
+983,Median Weeks Unemployed
+984,Consumer Price Index: All Items for Turkey
+985,Unemployment Rate in Oregon
+986,Unemployment Rate in Oregon
+987,"Consumer Price Index for All Urban Consumers: All Items in New York-Newark-Jersey City, NY-NJ-PA (CBSA)"
+988,"Producer Price Index by Commodity: Chemicals and Allied Products: Alkalies and Chlorine, Including Natural Sodium Carbonate and Sulfate"
+989,Sweden / U.S. Foreign Exchange Rate
+990,Producer Price Index by Industry: Computer and Electronic Product Manufacturing
+991,Global price of Nickel
+992,Total Federal Outlays
+993,Retail Sales: New Car Dealers
+994,Retail Sales: New Car Dealers
+995,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Unbleached Kraft Packaging and Industrial Converting Paperboard"
+996,Housing Inventory: Active Listing Count in Florida
+997,"Interest Rates, Discount Rate for Turkey"
+998,Industrial Production: Manufacturing: Non-Durable Goods: Ice Cream and Frozen Dessert (NAICS = 31152)
+999,Industrial Production: Manufacturing: Non-Durable Goods: Ice Cream and Frozen Dessert (NAICS = 31152)
+1000,3-Month or 90-day Rates and Yields: Treasury Securities for China
+1001,"Trade Balance: Goods, Balance of Payments Basis"
+1002,Manufacturers' Value of Shipments: Total Manufacturing
+1003,Manufacturers' Value of Shipments: Total Manufacturing
+1004,S&P/Case-Shiller MI-Detroit Home Price Index
+1005,S&P/Case-Shiller MI-Detroit Home Price Index
+1006,"Average Hourly Earnings of All Employees, Leisure and Hospitality"
+1007,"Average Hourly Earnings of All Employees, Leisure and Hospitality"
+1008,Producer Price Index by Commodity: Farm Products: Tomatoes
+1009,"Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers"
+1010,"Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers"
+1011,"Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers"
+1012,"Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers"
+1013,Norway / U.S. Foreign Exchange Rate
+1014,Unemployment Rate in Washington
+1015,Unemployment Rate in Washington
+1016,"Unemployment Rate - 16-19 Yrs., Black or African American"
+1017,"Unemployment Rate - 16-19 Yrs., Black or African American"
+1018,Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate
+1019,30-Year High Quality Market (HQM) Corporate Bond Par Yield
+1020,New One Family Homes for Sale in the United States
+1021,"Commercial Bank Interest Rate on Credit Card Plans, Accounts Assessed Interest"
+1022,5-Year High Quality Market (HQM) Corporate Bond Par Yield
+1023,S&P/Case-Shiller OH-Cleveland Home Price Index
+1024,S&P/Case-Shiller OH-Cleveland Home Price Index
+1025,Production of Total Industry in Germany
+1026,Harmonized Unemployment Rate: Total: All Persons for France
+1027,Harmonized Unemployment Rate: Total: All Persons for France
+1028,Employment Rate: Aged 25-54: Males for the United States
+1029,Employment Rate: Aged 25-54: Males for the United States
+1030,Producer Price Index by Industry: Industrial Gas Manufacturing: Oxygen
+1031,Consumer Price Index for All Urban Consumers: Electricity in U.S. City Average
+1032,Consumer Price Index for All Urban Consumers: Electricity in U.S. City Average
+1033,Producer Price Index by Industry: HVAC and Commercial Refrigeration Equipment
+1034,Producer Price Index by Industry: HVAC and Commercial Refrigeration Equipment
+1035,Liquid Assets to Total Assets (Liquid Asset Ratio) for South Africa
+1036,Producer Price Index by Commodity: Metals and Metal Products: Steel Mill Products
+1037,"Unemployment Rate - Less Than a High School Diploma, 25 Yrs. & over"
+1038,"Unemployment Rate - Less Than a High School Diploma, 25 Yrs. & over"
+1039,Global price of Industrial Materials index
+1040,"Average Price: Butter, Stick (Cost per Pound/453.6 Grams) in U.S. City Average"
+1041,Working Age Population: Aged 15-64: All Persons for Canada
+1042,Working Age Population: Aged 15-64: All Persons for Canada
+1043,No. 2 Heating Oil Prices: New York Harbor
+1044,Import Price Index by Origin (NAICS): All Industries for China
+1045,Unemployment Rate in Indiana
+1046,Unemployment Rate in Indiana
+1047,Producer Price Index by Commodity: Farm Products: Corn
+1048,Producer Price Index by Commodity: Farm Products: Corn
+1049,Producer Price Index by Commodity: Farm Products: Corn
+1050,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alcoholic Beverages Sales"
+1051,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alcoholic Beverages Sales"
+1052,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alcoholic Beverages Sales"
+1053,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alcoholic Beverages Sales"
+1054,Advance Retail Sales: Nonstore Retailers
+1055,Advance Retail Sales: Nonstore Retailers
+1056,Advance Retail Sales: Nonstore Retailers
+1057,Advance Retail Sales: Nonstore Retailers
+1058,Retail Sales: Furniture and Home Furnishings Stores
+1059,Retail Sales: Furniture and Home Furnishings Stores
+1060,Retail Sales: Furniture and Home Furnishings Stores
+1061,Retail Sales: Furniture and Home Furnishings Stores
+1062,Unemployment Rate in Arizona
+1063,Unemployment Rate in Arizona
+1064,Advance Retail Sales: Motor Vehicle and Parts Dealers
+1065,Advance Retail Sales: Motor Vehicle and Parts Dealers
+1066,Advance Retail Sales: Motor Vehicle and Parts Dealers
+1067,Advance Retail Sales: Motor Vehicle and Parts Dealers
+1068,3-Month or 90-day Rates and Yields: Interbank Rates for Canada
+1069,New Home Mortgage Applications for United States
+1070,New Home Mortgage Applications for United States
+1071,"Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)"
+1072,"Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)"
+1073,"Unemployment Rate in Detroit-Warren-Dearborn, MI (MSA)"
+1074,"Unemployment Rate in Las Vegas-Henderson-Paradise, NV (MSA)"
+1075,"Unemployment Rate in Las Vegas-Henderson-Paradise, NV (MSA)"
+1076,Global price of Poultry
+1077,Producer Price Index by Industry: Corrugated and Solid Fiber Box Manufacturing: Primary Products
+1078,"Average Hourly Earnings of All Employees, Manufacturing"
+1079,"Average Hourly Earnings of All Employees, Manufacturing"
+1080,3-Month or 90-day Rates and Yields: Interbank Rates for Australia
+1081,Producer Price Index by Industry: Medical Equipment and Supplies Manufacturing
+1082,Producer Price Index by Industry: Medical Equipment and Supplies Manufacturing
+1083,"Labor Force Participation Rate - High School Graduates, No College, 25 Yrs. & over"
+1084,"Labor Force Participation Rate - High School Graduates, No College, 25 Yrs. & over"
+1085,Production of Total Industry in Japan
+1086,12-Year High Quality Market (HQM) Corporate Bond Spot Rate
+1087,"Labor Force Participation Rate - Bachelor's Degree and Higher, 25 Yrs. & over"
+1088,"Labor Force Participation Rate - Bachelor's Degree and Higher, 25 Yrs. & over"
+1089,"Unemployment Rate in Houston-The Woodlands-Sugar Land, TX (MSA)"
+1090,"Unemployment Rate in Houston-The Woodlands-Sugar Land, TX (MSA)"
+1091,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Switzerland
+1092,"Producer Price Index by Commodity: Chemicals and Allied Products: Lard, Inedible Tallow, and Grease, Except Wool Grease"
+1093,Housing Inventory: New Listing Count in the United States
+1094,National Deposit Rates: Savings
+1095,"Industrial Production: Manufacturing: Durable Goods: Raw Steel (NAICS = 3311,2pt.)"
+1096,"Industrial Production: Manufacturing: Durable Goods: Raw Steel (NAICS = 3311,2pt.)"
+1097,Global price of Fish
+1098,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Norway
+1099,Consumer Price Index for All Urban Consumers: New and Used Motor Vehicles in U.S. City Average
+1100,Consumer Price Index for All Urban Consumers: New and Used Motor Vehicles in U.S. City Average
+1101,"Producer Price Index by Industry: Wood Container and Pallet Manufacturing: Wood Pallets and Pallet Containers, Wood and Metal Combination"
+1102,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Recyclable Paper"
+1103,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Recyclable Paper"
+1104,Real Broad Effective Exchange Rate for Turkey
+1105,Producer Price Index by Industry: Oil and Gas Field Machinery and Equipment Manufacturing
+1106,Consumer Price Index: Total All Items for India
+1107,Consumer Price Index: Total All Items for India
+1108,Inbound Price Index (International Services): Air Freight
+1109,Industrial Production: Consumer Goods
+1110,Industrial Production: Consumer Goods
+1111,Treasury Deposits with Federal Reserve Banks
+1112,"Producer Price Index by Commodity: Inputs to Industries: Net Inputs to Residential Construction, Goods"
+1113,Harmonized Unemployment Rate: Total: All Persons for Australia
+1114,Harmonized Unemployment Rate: Total: All Persons for Australia
+1115,"Capacity Utilization: Manufacturing: Durable Goods: Iron and Steel Products (NAICS = 3311,2)"
+1116,Natural Gas Consumption
+1117,Natural Gas Consumption
+1118,Unemployment Rate in Nevada
+1119,Unemployment Rate in Nevada
+1120,Housing Inventory: Median Listing Price per Square Feet in the United States
+1121,Consumer Price Index: All items: Total: Total for the Euro Area
+1122,Consumer Price Index: All items: Total: Total for the Euro Area
+1123,Consumer Price Index: All items: Total: Total for the Euro Area
+1124,Consumer Price Index: All items: Total: Total for the Euro Area
+1125,Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Industrialized Countries
+1126,Average Price: Potato Chips (Cost per 16 Ounces) in U.S. City Average
+1127,Personal consumption expenditures: Food
+1128,Consumer Price Index for All Urban Consumers: All Items Less Shelter in U.S. City Average
+1129,Consumer Price Index for All Urban Consumers: All Items Less Shelter in U.S. City Average
+1130,Nonfarm Real Estate Foreclosures for United States
+1131,Total Gold Reserves of Federal Reserve Banks for United States
+1132,"Producer Price Index by Industry: Flat Glass Manufacturing: Flat Glass (Float, Sheet, and Plate Process), Made by Flat Glass Producers"
+1133,Unemployment Rate in Virginia
+1134,Unemployment Rate in Virginia
+1135,Consumer Price Index for All Urban Consumers: Motor Vehicle Maintenance and Repair in U.S. City Average
+1136,Consumer Price Index for All Urban Consumers: Motor Vehicle Maintenance and Repair in U.S. City Average
+1137,"Producer Price Index by Industry: Small Arms Ammunition Manufacturing: All Other Ammo Products, Including Industrial Shells and Cartridges, Air Gun Ammo, Percussion Caps"
+1138,Manufacturers' New Orders: Other Electronic Component Manufacturing
+1139,Manufacturers' New Orders: Other Electronic Component Manufacturing
+1140,Producer Price Index by Commodity: Industrial Commodities Less Fuels
+1141,Equity Market Volatility: Infectious Disease Tracker
+1142,Producer Price Index by Industry: Transportation and Warehousing Industries
+1143,Producer Price Index by Commodity: Chemicals and Allied Products: Plastic Resins and Materials
+1144,Producer Price Index by Commodity: Chemicals and Allied Products: Plastic Resins and Materials
+1145,"Unemployment Rate in Cook County, IL"
+1146,"Global price of Coffee, Other Mild Arabica"
+1147,30-Day AA Financial Commercial Paper Interest Rate
+1148,Producer Price Index by Industry: Industrial Sand Mining: Hydraulic Fracturing Sand
+1149,"Producer Price Index by Industry: General Freight Trucking, Long-Distance Less Than Truckload: General Freight Trucking, Long-Distance Less Than Truckload"
+1150,Activity Rate: Aged 25-54: Males for the United States
+1151,Activity Rate: Aged 25-54: Males for the United States
+1152,Harmonized Unemployment Rate: Total: All Persons for Italy
+1153,Harmonized Unemployment Rate: Total: All Persons for Italy
+1154,"All Employees, Service-Providing"
+1155,Producer Price Index by Industry: Industrial Gas Manufacturing: Nitrogen
+1156,Consumer Price Index for All Urban Consumers: Fuel Oil and Other Fuels in U.S. City Average
+1157,Consumer Price Index for All Urban Consumers: Fuel Oil and Other Fuels in U.S. City Average
+1158,Harmonized Unemployment Rate: Total: All Persons for the Euro Area
+1159,Harmonized Unemployment Rate: Total: All Persons for the Euro Area
+1160,M3 for the United Kingdom
+1161,M3 for the United Kingdom
+1162,M3 for the United Kingdom
+1163,"Home Price Index (High Tier) for Los Angeles, California"
+1164,"Home Price Index (High Tier) for Los Angeles, California"
+1165,National Currency to US Dollar Exchange Rate: Average of Daily Rates for Turkey
+1166,National Currency to US Dollar Exchange Rate: Average of Daily Rates for Turkey
+1167,National Currency to US Dollar Exchange Rate: Average of Daily Rates for Turkey
+1168,Global price of Groundnuts
+1169,Advance Retail Sales: Food and Beverage Stores
+1170,Advance Retail Sales: Food and Beverage Stores
+1171,Advance Retail Sales: Food and Beverage Stores
+1172,Advance Retail Sales: Food and Beverage Stores
+1173,Asset-Backed Commercial Paper Outstanding
+1174,Asset-Backed Commercial Paper Outstanding
+1175,"Global price of Wool, Fine"
+1176,New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Florida
+1177,New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Florida
+1178,"Residual (Assets Less Liabilities), All Commercial Banks"
+1179,"Residual (Assets Less Liabilities), All Commercial Banks"
+1180,"Residual (Assets Less Liabilities), All Commercial Banks"
+1181,Consumer Price Index for All Urban Consumers: Services in U.S. City Average
+1182,Consumer Price Index for All Urban Consumers: Services in U.S. City Average
+1183,Real Gross Domestic Product at Market Prices in the United Kingdom
+1184,"Consumer Price Index for All Urban Consumers: All Items in San Francisco-Oakland-Hayward, CA (CBSA)"
+1185,Motor Vehicle Retail Sales: Domestic and Foreign Autos
+1186,Motor Vehicle Retail Sales: Domestic and Foreign Autos
+1187,"Interest Rates, Government Securities, Treasury Bills for Japan"
+1188,"Unemployment Rate in San Diego County, CA"
+1189,15-Year High Quality Market (HQM) Corporate Bond Spot Rate
+1190,"Producer Price Index by Industry: Rolled Steel Shape Manufacturing: Cold Rolled Steel Sheet and Strip, Made from Purchased Steel"
+1191,Job Openings: Leisure and Hospitality
+1192,Job Openings: Leisure and Hospitality
+1193,Job Openings: Leisure and Hospitality
+1194,Job Openings: Leisure and Hospitality
+1195,Housing Inventory: Active Listing Count in California
+1196,Business Tendency Surveys for Manufacturing: Confidence Indicators: Composite Indicators: OECD Indicator for the United States
+1197,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Spain
+1198,M3 for Australia
+1199,M3 for Australia
+1200,M3 for Australia
+1201,M3 for Australia
+1202,M3 for Australia
+1203,"Producer Price Index by Industry: Asphalt Paving Mixture and Block Manufacturing: Asphalt and Tar Paving Mixture (Excluding Liquid), Including Bitumen or Asphalt Concrete, Asphalt Paving Cement"
+1204,"All Employees, Food Services and Drinking Places"
+1205,"All Employees, Food Services and Drinking Places"
+1206,New Privately-Owned Housing Units Under Construction: Total Units
+1207,New Privately-Owned Housing Units Under Construction: Total Units
+1208,Job Openings: Construction
+1209,Job Openings: Construction
+1210,Job Openings: Construction
+1211,Job Openings: Construction
+1212,M1 for the Euro Area
+1213,M1 for the Euro Area
+1214,M1 for the Euro Area
+1215,"Unemployment Rate in St. Louis, MO-IL (MSA)"
+1216,"Unemployment Rate in St. Louis, MO-IL (MSA)"
+1217,Producer Price Index by Industry: Electric Power Generation: Utilities
+1218,"Producer Price Index by Commodity: Fuels and Related Products and Power: Other Petroleum and Coal Products, Including Coke Oven Products, Not Elsewhere Classified"
+1219,"Producer Price Index by Commodity: Fuels and Related Products and Power: Other Petroleum and Coal Products, Including Coke Oven Products, Not Elsewhere Classified"
+1220,Producer Price Index by Industry: Paint and Coating Manufacturing
+1221,Producer Price Index by Industry: Paint and Coating Manufacturing
+1222,Real Manufacturing and Trade Industries Sales
+1223,Real Manufacturing and Trade Industries Sales
+1224,Real Manufacturing and Trade Industries Sales
+1225,Unemployment Rate in Oklahoma
+1226,Unemployment Rate in Oklahoma
+1227,Passenger Car Registrations in United States
+1228,Unemployment Rate in Louisiana
+1229,Unemployment Rate in Louisiana
+1230,"Exports of Goods and Services, Balance of Payments Basis"
+1231,Producer Price Index by Commodity: Metals and Metal Products: Aluminum Sheet and Strip
+1232,Producer Price Index by Industry: Concrete Block and Brick Manufacturing: Concrete Brick
+1233,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Republic of Korea
+1234,Producer Price Index by Industry: Petroleum Lubricating Oil and Grease Manufacturing: Secondary Products
+1235,Producer Price Index by Commodity: Chemicals and Allied Products: Ethanol (Ethyl Alcohol)
+1236,Ratio of Exports to Imports for China
+1237,Ratio of Exports to Imports for China
+1238,Producer Price Index by Commodity: Farm Products: Raw Milk
+1239,Producer Price Index by Commodity: Farm Products: Raw Milk
+1240,Producer Price Index by Commodity: Farm Products: Raw Milk
+1241,Producer Price Index by Commodity: Farm Products: Raw Milk
+1242,Producer Price Index by Commodity: Farm Products: Raw Milk
+1243,Producer Price Index by Commodity: Farm Products: Raw Milk
+1244,Producer Price Index by Commodity: Farm Products: Raw Milk
+1245,M3 for China
+1246,M3 for China
+1247,Total Federal Receipts
+1248,Total Reserves excluding Gold for United States
+1249,Total Reserves excluding Gold for United States
+1250,Retail Sales: Electronic Shopping and Mail-Order Houses
+1251,Retail Sales: Electronic Shopping and Mail-Order Houses
+1252,Retail Sales: Electronic Shopping and Mail-Order Houses
+1253,Retail Sales: Electronic Shopping and Mail-Order Houses
+1254,"New Houses Sold by Sales Price in the United States, Total"
+1255,"New Houses Sold by Sales Price in the United States, Total"
+1256,"Real Estate Loans: Residential Real Estate Loans, All Commercial Banks"
+1257,"Real Estate Loans: Residential Real Estate Loans, All Commercial Banks"
+1258,"Real Estate Loans: Residential Real Estate Loans, All Commercial Banks"
+1259,"Consumer Price Index: Harmonized Prices: Total All Items Less Food, Energy, Tobacco, and Alcohol for the Euro Area"
+1260,"All Employees, Professional and Business Services"
+1261,"All Employees, Professional and Business Services"
+1262,Exports: Value Goods for the Republic of Korea
+1263,Exports: Value Goods for the Republic of Korea
+1264,Exports: Value Goods for the Republic of Korea
+1265,Exports: Value Goods for the Republic of Korea
+1266,Exports: Value Goods for the Republic of Korea
+1267,3-Month or 90-day Rates and Yields: Certificates of Deposit for the Republic of Korea
+1268,"Total Unemployed, Plus Discouraged Workers, Plus All Other Persons Marginally Attached to the Labor Force, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-5)"
+1269,"Total Unemployed, Plus Discouraged Workers, Plus All Other Persons Marginally Attached to the Labor Force, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-5)"
+1270,Motor Vehicle Retail Sales: Light Weight Trucks
+1271,Motor Vehicle Retail Sales: Light Weight Trucks
+1272,"Commercial and Industrial Loans, Large Domestically Chartered Commercial Banks"
+1273,"Commercial and Industrial Loans, Large Domestically Chartered Commercial Banks"
+1274,"Commercial and Industrial Loans, Large Domestically Chartered Commercial Banks"
+1275,Producer Price Index by Industry: Food Manufacturing
+1276,"Producer Price Index by Industry: Iron and Steel Pipe and Tube Manufacturing from Purchased Steel: Pipe and Tube, Carbon"
+1277,M1 for Canada
+1278,M1 for Canada
+1279,M1 for Canada
+1280,"Consumer Price Index for All Urban Consumers: Tuition, Other School Fees, and Childcare in U.S. City Average"
+1281,"Consumer Price Index for All Urban Consumers: Tuition, Other School Fees, and Childcare in U.S. City Average"
+1282,Working Age Population: Aged 15-64: All Persons for Australia
+1283,Working Age Population: Aged 15-64: All Persons for Australia
+1284,"Interest Rates, Government Securities, Treasury Bills for South Africa"
+1285,Consumer Price Index for All Urban Consumers: Rent of Shelter in U.S. City Average
+1286,Consumer Price Index for All Urban Consumers: Rent of Shelter in U.S. City Average
+1287,"Interest Rates, Discount Rate for Germany"
+1288,Flexible Price Consumer Price Index less Food and Energy
+1289,Flexible Price Consumer Price Index less Food and Energy
+1290,Flexible Price Consumer Price Index less Food and Energy
+1291,Flexible Price Consumer Price Index less Food and Energy
+1292,Consumer Price Index of All Items in Canada
+1293,"Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)"
+1294,"Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)"
+1295,"Unemployment Rate in Phoenix-Mesa-Scottsdale, AZ (MSA)"
+1296,"Unemployment Rate in Phoenix-Mesa-Scottsdale, AZ (MSA)"
+1297,3-Year High Quality Market (HQM) Corporate Bond Spot Rate
+1298,Harmonized Unemployment Rate: Total: All Persons for the United Kingdom
+1299,Harmonized Unemployment Rate: Total: All Persons for the United Kingdom
+1300,Chained Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+1301,"Unemployment Rate in Austin-Round Rock, TX (MSA)"
+1302,"Unemployment Rate in Austin-Round Rock, TX (MSA)"
+1303,"All Employees, Goods-Producing"
+1304,"All Employees, Goods-Producing"
+1305,"Labor Force Participation Rate - 20 Yrs. & over, White Men"
+1306,"Labor Force Participation Rate - 20 Yrs. & over, White Men"
+1307,M1 for Australia
+1308,M1 for Australia
+1309,M1 for Australia
+1310,M1 for Australia
+1311,M1 for Australia
+1312,Brave-Butters-Kelley Real Gross Domestic Product
+1313,Manufacturers Inventories
+1314,Manufacturers Inventories
+1315,Manufacturers Inventories
+1316,Manufacturers Inventories
+1317,"Securities in Bank Credit, All Commercial Banks"
+1318,"Securities in Bank Credit, All Commercial Banks"
+1319,"Securities in Bank Credit, All Commercial Banks"
+1320,"Large Time Deposits, All Commercial Banks"
+1321,"Large Time Deposits, All Commercial Banks"
+1322,"Large Time Deposits, All Commercial Banks"
+1323,3-Month or 90-day Rates and Yields: Bank Bills for New Zealand
+1324,Consumer Price Index for All Urban Consumers: Fruits and Vegetables in U.S. City Average
+1325,Consumer Price Index for All Urban Consumers: Fruits and Vegetables in U.S. City Average
+1326,Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for Japan
+1327,1-Year Treasury Constant Maturity Minus Federal Funds Rate
+1328,Producer Price Index by Industry: Pharmaceutical and Medicine Manufacturing
+1329,Producer Price Index by Industry: Pharmaceutical and Medicine Manufacturing
+1330,Producer Price Index by Industry: Mining Machinery and Equipment Manufacturing: Parts and Attachments for Mining Machinery and Equipment (Sold Separately)
+1331,OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough
+1332,"Producer Price Index by Commodity: Chemicals and Allied Products: Inorganic Acids, Including Hydrochloric, Sulfuric Acid and Other"
+1333,"Unemployment Rate - 20 Yrs. & over, Black or African American Women"
+1334,"Unemployment Rate - 20 Yrs. & over, Black or African American Women"
+1335,M0 for China
+1336,Imports of Goods and Services: Balance of Payments Basis
+1337,Producer Price Index by Commodity: Machinery and Equipment: General Purpose Machinery and Equipment
+1338,Producer Price Index by Commodity: Machinery and Equipment: General Purpose Machinery and Equipment
+1339,"Unemployment Rate in Dallas-Fort Worth-Arlington, TX (MSA)"
+1340,"Unemployment Rate in Dallas-Fort Worth-Arlington, TX (MSA)"
+1341,Imports: Value Goods for China
+1342,Imports: Value Goods for China
+1343,Imports: Value Goods for China
+1344,Imports: Value Goods for China
+1345,Imports: Value Goods for China
+1346,Unemployment Rate - 16-19 Yrs.
+1347,Unemployment Rate - 16-19 Yrs.
+1348,Total Construction Spending: Highway and Street in the United States
+1349,Total Construction Spending: Highway and Street in the United States
+1350,Total Construction Spending: Highway and Street in the United States
+1351,Real Broad Effective Exchange Rate for Japan
+1352,Producer Price Index by Commodity: Rubber and Plastic Products: Synthetic Rubber
+1353,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Mexico
+1354,"Producer Price Index by Commodity: Rubber and Plastic Products: All Other Consumer, Institutional, and Commercial Products"
+1355,"Producer Price Index by Commodity: Rubber and Plastic Products: All Other Consumer, Institutional, and Commercial Products"
+1356,NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough
+1357,"Producer Price Index by Industry: Fiber Optic Cable Manufacturing: Fiber Optic Cable, Made from Purchased Fiber Optic Strand"
+1358,Weekly Hours Worked: Manufacturing for the United States
+1359,Weekly Hours Worked: Manufacturing for the United States
+1360,Producer Price Index by Commodity: Farm Products: Russet Potatoes
+1361,Producer Price Index by Commodity: Metals and Metal Products: Copper and Brass Mill Shapes
+1362,100-Year High Quality Market (HQM) Corporate Bond Spot Rate
+1363,"All Employees, Child Day Care Services"
+1364,"All Employees, Child Day Care Services"
+1365,Current General Business Conditions; Diffusion Index for New York
+1366,Current General Business Conditions; Diffusion Index for New York
+1367,"Average Weekly Overtime Hours of Production and Nonsupervisory Employees, Manufacturing"
+1368,"Average Weekly Overtime Hours of Production and Nonsupervisory Employees, Manufacturing"
+1369,National Currency to US Dollar Spot Exchange Rate for Indonesia
+1370,"All Employees, Health Care"
+1371,"All Employees, Health Care"
+1372,Manufacturers Sales
+1373,Manufacturers Sales
+1374,Manufacturers Sales
+1375,Manufacturers Sales
+1376,Producer Price Index by Commodity: Fuels and Related Products and Power: No. 2 Diesel Fuel
+1377,Producer Price Index by Commodity: Fuels and Related Products and Power: No. 2 Diesel Fuel
+1378,Producer Price Index by Commodity: Fuels and Related Products and Power: No. 2 Diesel Fuel
+1379,Producer Price Index by Commodity: Fuels and Related Products and Power: Coal
+1380,Producer Price Index by Commodity: Fuels and Related Products and Power: Coal
+1381,Producer Price Index by Commodity: Metals and Metal Products: Carbon Steel Scrap
+1382,National Currency to US Dollar Exchange Rate: Average of Daily Rates for the Russian Federation
+1383,Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for the Euro Area
+1384,Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for the Euro Area
+1385,M3 for Japan
+1386,M3 for Japan
+1387,M3 for Japan
+1388,M3 for Japan
+1389,M3 for Japan
+1390,Labor Force Participation Rate for Florida
+1391,Labor Force Participation Rate for Florida
+1392,Manufacturers' New Orders: Durable Goods Excluding Defense
+1393,Manufacturers' New Orders: Durable Goods Excluding Defense
+1394,"Interest Rates, Discount Rate for Australia"
+1395,"Unemployment Rate in Atlanta-Sandy Springs-Roswell, GA (MSA)"
+1396,"Unemployment Rate in Atlanta-Sandy Springs-Roswell, GA (MSA)"
+1397,"Unemployment Rate in Orange County, CA"
+1398,Advance Retail Sales: Department Stores
+1399,Advance Retail Sales: Department Stores
+1400,Advance Retail Sales: Department Stores
+1401,Advance Retail Sales: Department Stores
+1402,Global price of Swine
+1403,"Producer Price Index by Industry: Aluminum Sheet, Plate, and Foil Manufacturing: Aluminum Sheet, Plate, and Foil"
+1404,Cass Freight Index: Expenditures
+1405,Producer Price Index by Industry: Industrial Machinery Manufacturing
+1406,30-Day AA Nonfinancial Commercial Paper Interest Rate
+1407,"Industrial Production: Mining, Quarrying, and Oil and Gas Extraction: Mining (NAICS = 21)"
+1408,"Industrial Production: Mining, Quarrying, and Oil and Gas Extraction: Mining (NAICS = 21)"
+1409,Unemployment Rate in Iowa
+1410,Unemployment Rate in Iowa
+1411,"Unemployment Rate in Denver-Aurora-Lakewood, CO (MSA)"
+1412,"Unemployment Rate in Denver-Aurora-Lakewood, CO (MSA)"
+1413,"All Employees, Financial Activities"
+1414,"All Employees, Financial Activities"
+1415,"Labor Force Participation Rate - 20 Yrs. & over, Black or African American Men"
+1416,"Labor Force Participation Rate - 20 Yrs. & over, Black or African American Men"
+1417,"Interest Rates, Discount Rate for Canada"
+1418,Bank of England Policy Rate in the United Kingdom
+1419,"Housing Inventory: Active Listing Count in Las Vegas-Henderson-Paradise, NV (CBSA)"
+1420,Production of Total Industry in Canada
+1421,Producer Price Index by Commodity: Construction (Partial): New Nonresidential Building Construction
+1422,Producer Price Index by Commodity: Construction (Partial): New Nonresidential Building Construction
+1423,Labor Force Flows Unemployed to Employed
+1424,Labor Force Flows Unemployed to Employed
+1425,Producer Price Index by Commodity: Chemicals and Allied Products: Basic Organic Chemicals
+1426,Production: Industry: Total industry: Total industry excluding construction for China
+1427,Employment-Population Ratio - Women
+1428,Employment-Population Ratio - Women
+1429,Retail Sales: Sporting Goods Stores
+1430,Retail Sales: Sporting Goods Stores
+1431,Book Value of Federal Reserve Bank Held Gold Bullion: NY Vault
+1432,"All Employees, Education and Health Services"
+1433,"All Employees, Education and Health Services"
+1434,Producer Price Index by Commodity: Rubber and Plastic Products: All Other Reinforced and Fiberglass Plastics Products
+1435,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for South Africa
+1436,Real Broad Effective Exchange Rate for India
+1437,Quits: Health Care and Social Assistance
+1438,Quits: Health Care and Social Assistance
+1439,Quits: Health Care and Social Assistance
+1440,Quits: Health Care and Social Assistance
+1441,3-Month or 90-day Rates and Yields: Interbank Rates for Japan
+1442,Swiss Monetary Base Aggregate
+1443,"Unemployment Rate - Leisure and Hospitality, Private Wage and Salary Workers"
+1444,"Interest Rates, Discount Rate for Brazil"
+1445,Job Openings: Accommodation and Food Services
+1446,Job Openings: Accommodation and Food Services
+1447,Job Openings: Accommodation and Food Services
+1448,Job Openings: Accommodation and Food Services
+1449,Market Value of Gross Federal Debt
+1450,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Recycled Paperboard"
+1451,Travelers Checks
+1452,Travelers Checks
+1453,"All Employees, Residential Building"
+1454,"All Employees, Residential Building"
+1455,Producer Price Index by Industry: Industrial Gas Manufacturing: Argon and Hydrogen
+1456,M2 Less Small Time Deposits
+1457,M2 Less Small Time Deposits
+1458,Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete
+1459,Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete
+1460,Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete
+1461,Producer Price Index by Commodity: Nonmetallic Mineral Products: Ready-Mix Concrete
